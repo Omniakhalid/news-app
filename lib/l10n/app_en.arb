@@ -1,0 +1,15 @@
+{
+"news_title" : "News App",
+"pick_cat" : "Pick your category",
+"interest" : "of interest",
+"sports" : "Sports",
+"politics" : "Politics",
+"health" : "Health",
+"environment" :"Environment",
+"sciences" : "Sciences",
+"business" : "Business",
+"categories_nav" : "Categories",
+"settings_nav" : "Settings",
+"language" : "Language",
+"search_tab" : "Search Article"
+}

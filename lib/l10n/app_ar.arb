@@ -1,0 +1,15 @@
+{
+"news_title" : "الأخبار",
+"pick_cat" : "اختر الفئة التي تهمك لنخبرك عنها ",
+"interest" : "بأحدث الأخبار",
+"sports" : "الرياضة",
+"politics" : "السياسة",
+"health" : "الصحة",
+"environment" :"البيئة",
+"sciences" : "العلوم",
+"business" : "الأعمال",
+"categories_nav" : "الفئات",
+"settings_nav" : "الإعدادات",
+"language" : "اللغة",
+"search_tab" : "بحث عن مقالة"
+}
